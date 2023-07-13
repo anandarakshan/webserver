@@ -62,8 +62,8 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ###server output
-![server output](serveroutput.jpg)
+![serveroutput](serveroutput.jpg)
 ###client output
-![client output](clientoutput.jpg)
+![clientoutput](clientoutput.jpg)
 ## RESULT:
 The program is executed succesfully
